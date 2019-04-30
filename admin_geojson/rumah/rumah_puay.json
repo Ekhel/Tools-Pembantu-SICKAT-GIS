@@ -1,0 +1,1419 @@
+{
+  "type": "FeatureCollection",
+  "name": "Perumahan_Puay",
+  "totalFeatures": 104,
+  "crs":{
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          453642.0000000031,
+          9703240.000042824
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "02",
+        "NAMA_KK": "Kel.Ibu Janda Adolvina Kabei",
+        "JUMLAH_KK": "2",
+        "LAKI_LAK": "2",
+        "PEREMPUAN": "2",
+        "RT": "04",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Panggung",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Layak Huni",
+        "TINDAK_LAN": "Rehab",
+        "RM_Bantuan": "Swadaya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          453907.000000011,
+          9703487.00004279
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "03",
+        "NAMA_KK": "Kel.Bpk.Yohanis Deda",
+        "JUMLAH_KK": "3",
+        "LAKI_LAK": "6",
+        "PEREMPUAN": "6",
+        "RT": "04",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Panggung",
+        "JENIS_BANG": "Baik",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "",
+        "RM_Bantuan": "Swadaya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          453982.00000001123,
+          9703395.000042804
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "04",
+        "NAMA_KK": "Kel.Bpk.Yosias Wondiwoy",
+        "JUMLAH_KK": "2",
+        "LAKI_LAK": "6",
+        "PEREMPUAN": "5",
+        "RT": "04",
+        "RW": "II",
+        "Etnis": "Non Jayapura",
+        "JENIS_USAH": "Panggung",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "Rehab",
+        "RM_Bantuan": "Swadaya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          453957.0000000044,
+          9703490.00004279
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "05",
+        "NAMA_KK": "Kel.Bpk.Linus Wogam",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "1",
+        "PEREMPUAN": "2",
+        "RT": "04",
+        "RW": "II",
+        "Etnis": "Non Jayapura",
+        "JENIS_USAH": "Panggung",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "Rehab",
+        "RM_Bantuan": "Bantuan PEMDA KAB.Jayapura Dinas PU 2013"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          453995.00000000035,
+          9703483.00004279
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "06",
+        "NAMA_KK": "Kel.Bpk.Elias Nega",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "1",
+        "PEREMPUAN": "2",
+        "RT": "04",
+        "RW": "II",
+        "Etnis": "Non Jayapura",
+        "JENIS_USAH": "Panggung",
+        "JENIS_BANG": "Rusak Parah",
+        "KONDISI_BA": "Tidak Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "Rehab",
+        "RM_Bantuan": "Swadaya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454026.0000000039,
+          9703491.00004279
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "07",
+        "NAMA_KK": "Kel.Bpk.Welem Hokoyoku",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "3",
+        "PEREMPUAN": "",
+        "RT": "04",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Panggung",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "",
+        "RM_Bantuan": "Bantuan PEMDA KAB.Jayapura Dinas PU Tahun 2013"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454053.9999999995,
+          9703470.000042792
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "08",
+        "NAMA_KK": "Kel.Bpk.Fredrik Fele",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "4",
+        "PEREMPUAN": "",
+        "RT": "04",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Panggung",
+        "JENIS_BANG": "Rusak Berat",
+        "KONDISI_BA": "Tidak Layak Huni",
+        "KRITERIA_R": "Nelayan",
+        "TINDAK_LAN": "R.Baru",
+        "RM_Bantuan": "Swadaya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454075.00000000343,
+          9703460.000042794
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "09",
+        "NAMA_KK": "Kel.Bpk.Wangki Makoba",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "3",
+        "PEREMPUAN": "4",
+        "RT": "04",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Panggung",
+        "JENIS_BANG": "Rusak Parah",
+        "KONDISI_BA": "Tidak Layak Huni",
+        "KRITERIA_R": "Swasta",
+        "TINDAK_LAN": "Rehab",
+        "RM_Bantuan": "Swadaya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454377.00000000617,
+          9704279.00004268
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "11",
+        "NAMA_KK": "Kel.Bpk.Abraham Doyapo",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "1",
+        "PEREMPUAN": "1",
+        "RT": "01",
+        "RW": "I",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Panggung",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "Rehab",
+        "RM_Bantuan": "Swadaya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.10",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454299.0000000083,
+          9704324.000042675
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "12",
+        "NAMA_KK": "Kel.Bpk.Paulus Deda",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "2",
+        "PEREMPUAN": "2",
+        "RT": "01",
+        "RW": "I",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Panggung",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "Rehab",
+        "RM_Bantuan": "Swadaya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.11",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454131.9999999977,
+          9704274.00004268
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "13",
+        "NAMA_KK": "Kel.Bpk.Frengki Fele",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "1",
+        "PEREMPUAN": "",
+        "RT": "01",
+        "RW": "I",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Semi Permanen",
+        "JENIS_BANG": "Baik",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "",
+        "RM_Bantuan": "Bantuan PEMDA KAB.Jayapura Dinas PU Tahun 2018"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.12",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454115.000000006,
+          9704260.000042684
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "14",
+        "NAMA_KK": "Kel.Bpk.Lukas Fele",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "2",
+        "PEREMPUAN": "2",
+        "RT": "01",
+        "RW": "I",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Panggung",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "Rehab",
+        "RM_Bantuan": "Swadaya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.13",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454075.0000000062,
+          9704218.00004269
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "15",
+        "NAMA_KK": "Kel.Bpk.Beltazar Doyapo",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "6",
+        "PEREMPUAN": "3",
+        "RT": "02",
+        "RW": "I",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Panggung",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "Rehab",
+        "RM_Bantuan": "Bantuan (AMD)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.14",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454094.11391233135,
+          9704101.417782973
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "16",
+        "NAMA_KK": "Kel.Bpk. Hendrik Mimitauw",
+        "JUMLAH_KK": "2",
+        "LAKI_LAK": "5",
+        "PEREMPUAN": "1",
+        "RT": "02",
+        "RW": "I",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Semi Permanen",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "Rehab",
+        "RM_Bantuan": "Bantuan PEMDA PROVINSI PAPUA Tahun 2001"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.15",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454130.5822597339,
+          9704116.012740776
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "17",
+        "NAMA_KK": "Kel.Bpk.Fabian Suebu",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "4",
+        "PEREMPUAN": "3",
+        "RT": "02",
+        "RW": "I",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Semi Permanen",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "Rehab",
+        "RM_Bantuan": "Bantuan PEMDA PROVINSI PAPUA Tahun 2001"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.16",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454134.82278246747,
+          9704104.113955036
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "18",
+        "NAMA_KK": "Kel.Bpk.Yance Fiobetauw",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "4",
+        "PEREMPUAN": "1",
+        "RT": "04",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Semi Permanen",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "Rehab",
+        "RM_Bantuan": "Bantuan PEMDA PROVINSI PAPUA Tahun 2001"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.17",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454138.0633052121,
+          9704094.22786737
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "19",
+        "NAMA_KK": "Kel.Bpk.Kalvin Makoba",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "4",
+        "PEREMPUAN": "1",
+        "RT": "04",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Semi Permanen",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "Rehab",
+        "RM_Bantuan": "Bantuan PEMDA PROVINSI PAPUA Tahun 2001"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.18",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454142.00000000466,
+          9704081.000042709
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "20",
+        "NAMA_KK": "Kel.Bpk.Elisa Ebalkoy",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "4",
+        "PEREMPUAN": "3",
+        "RT": "03",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Semi Permanen",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "Rehab",
+        "RM_Bantuan": "Bantuan PEMDA PROVINSI PAPUA Tahun 2001"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.19",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454146.3131878353,
+          9704033.767703334
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "21",
+        "NAMA_KK": "Kel.Bpk.Robert Kalembulu",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "5",
+        "PEREMPUAN": "4",
+        "RT": "03",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Semi Permanen",
+        "JENIS_BANG": "Rusak Berat",
+        "KONDISI_BA": "Tidak Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "Baru",
+        "RM_Bantuan": "Bantuan PEMDA PROVINSI PAPUA Tahun 2001"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.20",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454154.1110667057,
+          9704021.848551787
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "22",
+        "NAMA_KK": "Kel.Bpk.Onesmus Eha",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "2",
+        "PEREMPUAN": "3",
+        "RT": "03",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Semi Permanen",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Nelayan",
+        "TINDAK_LAN": "Rehab",
+        "RM_Bantuan": "Bantuan PEMDA PROVINSI PAPUA Tahun 2001"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.21",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454141.72723640356,
+          9704016.31323055
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "23",
+        "NAMA_KK": "Kel.Ibu Janda. Milka Deda",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "",
+        "PEREMPUAN": "2",
+        "RT": "03",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Semi Permanen",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "Rehab",
+        "RM_Bantuan": "Bantuan PEMDA PROVINSI PAPUA Tahun 2001"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.22",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454134.5455272153,
+          9704028.95961849
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "24",
+        "NAMA_KK": "Kel.Bpk.Eron Marauje",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "1",
+        "PEREMPUAN": "2",
+        "RT": "03",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Semi Permanen",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "Rehab",
+        "RM_Bantuan": "Bantuan PEMDA PROVINSI PAPUA Tahun 2001"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.23",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454131.9999999981,
+          9704041.000042714
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "25",
+        "NAMA_KK": "Kel.Ibu.Oktofina Kalembulu",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "2",
+        "PEREMPUAN": "3",
+        "RT": "03",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Semi Permanen",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "Rehab",
+        "RM_Bantuan": "Bantuan PEMDA PROVINSI PAPUA Tahun 2001"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.24",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454126.3538902571,
+          9704051.65848661
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "26",
+        "NAMA_KK": "Kel.Bpk.Timotius Deda",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "1",
+        "PEREMPUAN": "4",
+        "RT": "03",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Semi Permanen",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "Rehab",
+        "RM_Bantuan": "Bantuan PEMDA PROVINSI PAPUA Tahun 2001"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.25",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454126.1522768316,
+          9704061.683154915
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "27",
+        "NAMA_KK": "Kel.Bpk.Ekarias Doyapo",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "3",
+        "PEREMPUAN": "1",
+        "RT": "03",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Semi Permanen",
+        "JENIS_BANG": "Rusak Berat",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "Rehab",
+        "RM_Bantuan": "Bantuan PEMDA PROVINSI PAPUA Tahun 2001"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.26",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454122.00000000565,
+          9704072.00004271
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "28",
+        "NAMA_KK": "Kel.Bpk.Yusuf Ohe",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "3",
+        "PEREMPUAN": "2",
+        "RT": "03",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Semi Permanen",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "Rehab",
+        "RM_Bantuan": "Bantuan PEMDA PROVINSI PAPUA Tahun 2001"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.27",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454113.024668302,
+          9704057.683154913
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "29",
+        "NAMA_KK": "Kel.Bpk.Markus Fiobetauw",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "3",
+        "PEREMPUAN": "3",
+        "RT": "03",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Semi Permanen",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Nelayan",
+        "TINDAK_LAN": "Rehab",
+        "RM_Bantuan": "Bantuan PEMDA PROVINSI PAPUA Tahun 2001"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.28",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454122.16169690475,
+          9704023.929400237
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "30",
+        "NAMA_KK": "Kel.Bpk.Hans Tokoro",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "2",
+        "PEREMPUAN": "2",
+        "RT": "04",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Semi Permanen",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Polri",
+        "TINDAK_LAN": "Rehab",
+        "RM_Bantuan": "Bantuan PEMDA PROVINSI PAPUA Tahun 2001"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.29",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454129.23233938485,
+          9704011.424297255
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "31",
+        "NAMA_KK": "Kel.Bpk.Herman Tokoro",
+        "JUMLAH_KK": "2",
+        "LAKI_LAK": "2",
+        "PEREMPUAN": "3",
+        "RT": "04",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Semi Permanen",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "Rehab",
+        "RM_Bantuan": "Bantuan PEMDA PROVINSI PAPUA Tahun 2001"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.30",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454116.77786659973,
+          9704006.656636635
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "32",
+        "NAMA_KK": "Kel.Bpk.Daniel Dopondoe",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "1",
+        "PEREMPUAN": "2",
+        "RT": "04",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Semi Permanen",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "Rehab",
+        "RM_Bantuan": "Bantuan PEMDA PROVINSI PAPUA Tahun 2001"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.31",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454111.0000000044,
+          9704033.000042714
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "33",
+        "NAMA_KK": "Kel.Bpk.Daniel Puhili",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "3",
+        "PEREMPUAN": "1",
+        "RT": "04",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Semi Permanen",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "Rehab",
+        "RM_Bantuan": "Bantuan PEMDA PROVINSI PAPUA Tahun 2001"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.32",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454106.32922194933,
+          9704043.670820765
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "34",
+        "NAMA_KK": "Kel.Bpk.Markus Aufa",
+        "JUMLAH_KK": "2",
+        "LAKI_LAK": "3",
+        "PEREMPUAN": "1",
+        "RT": "04",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Semi Permanen",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "Rehab",
+        "RM_Bantuan": "Bantuan PEMDA PROVINSI PAPUA Tahun 2001"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.33",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454090.0000000041,
+          9704060.00004271
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "35",
+        "NAMA_KK": "Kel.Bpk.Andarias Deda",
+        "JUMLAH_KK": "2",
+        "LAKI_LAK": "1",
+        "PEREMPUAN": "2",
+        "RT": "04",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Semi Permanen",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "",
+        "RM_Bantuan": "Bantuan PEMDA PROVINSI PAPUA Tahun 2001"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.34",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454093.0000000083,
+          9704050.000042712
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "36",
+        "NAMA_KK": "Kel.Bpk.Hofni Deda",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "3",
+        "PEREMPUAN": "2",
+        "RT": "04",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Semi Permanen",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "Rehab",
+        "RM_Bantuan": "Bantuan PEMDA PROVINSI PAPUA Tahun 2001"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.35",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454091.56783784454,
+          9704038.176987842
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "37",
+        "NAMA_KK": "Kel.Bpk.Hertop Guntur Deda",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "2",
+        "PEREMPUAN": "3",
+        "RT": "04",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Semi Permanen",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "",
+        "RM_Bantuan": "Bantuan PEMDA PROVINSI PAPUA Tahun 2001"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.36",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454103.13147866103,
+          9704000.848551791
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "38",
+        "NAMA_KK": "Kel.Bpk.Yakop Fiobetauw",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "3",
+        "PEREMPUAN": "4",
+        "RT": "04",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Semi Permanen",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "",
+        "RM_Bantuan": "Bantuan PEMDA PROVINSI PAPUA Tahun 2001"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.37",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454158.0000000003,
+          9703870.000042737
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "39",
+        "NAMA_KK": "Kel.Bpk.Hendrik Yomo",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "1",
+        "PEREMPUAN": "1",
+        "RT": "04",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Semi Permanen",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Pendeta",
+        "TINDAK_LAN": "Rehab",
+        "RM_Bantuan": "Bantuan PEMDA PROVINSI PAPUA Tahun 2001"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.38",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454157.00000000483,
+          9703860.000042738
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "40",
+        "NAMA_KK": "Kel.Bpk.Herman Deda",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "2",
+        "PEREMPUAN": "2",
+        "RT": "04",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Semi Permanen",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "Rehab",
+        "RM_Bantuan": "Bantuan (AMD)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.39",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454152.0000000069,
+          9703852.00004274
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "41",
+        "NAMA_KK": "Kel.Bpk.Robert Deda",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "3",
+        "PEREMPUAN": "3",
+        "RT": "04",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Panggung",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "Rehab Berat",
+        "RM_Bantuan": "Bantuan (AMD)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.40",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454133.0000000009,
+          9703845.00004274
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "42",
+        "NAMA_KK": "Kel.Bpk.Welem Wali",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "1",
+        "PEREMPUAN": "3",
+        "RT": "04",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Semi Permanen",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "Rehab",
+        "RM_Bantuan": "Bantuan PEMDA PROVINSI PAPUA Tahun 2001"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.41",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454120.9999999999,
+          9703846.00004274
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "43",
+        "NAMA_KK": "Kel.Bpk.Lewi Wahey",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "1",
+        "PEREMPUAN": "1",
+        "RT": "04",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Semi Permanen",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "Rehab",
+        "RM_Bantuan": "Bantuan PEMDA PROVINSI PAPUA Tahun 2001"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.42",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454122.00000000553,
+          9703816.000042744
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "44",
+        "NAMA_KK": "Kel.Bpk.Yansen Wahey",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "4",
+        "PEREMPUAN": "2",
+        "RT": "04",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Panggung",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "Rehab Berat",
+        "RM_Bantuan": "Swadaya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.43",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454112.00000000116,
+          9703837.000042742
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "45",
+        "NAMA_KK": "Kel.Bpk.Seblum Ibo",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "1",
+        "PEREMPUAN": "3",
+        "RT": "03",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Panggung",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "Rehab Berat",
+        "RM_Bantuan": "Swadaya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.44",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454096.99999999895,
+          9703846.00004274
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "46",
+        "NAMA_KK": "Kel.Bpk.Yohanis Doyapo",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "1",
+        "PEREMPUAN": "5",
+        "RT": "03",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Panggung",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "",
+        "RM_Bantuan": "Bantuan PEMDA KAB.Jayapura Dinas PU Tahun 2016"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.45",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454084.0000000008,
+          9703859.000042738
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "47",
+        "NAMA_KK": "Kel.Ibu Janda. Dina Doyapo",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "1",
+        "PEREMPUAN": "4",
+        "RT": "03",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Panggung",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "Rehab",
+        "RM_Bantuan": "Swadaya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.46",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454069.00000000256,
+          9703873.000042737
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "48",
+        "NAMA_KK": "Kel.Bpk.Aser Kabey",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "1",
+        "PEREMPUAN": "1",
+        "RT": "03",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Panggung",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "Rehab Berat",
+        "RM_Bantuan": "Swadaya"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.47",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454072.0000000078,
+          9703903.000042733
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "49",
+        "NAMA_KK": "Kel.Bpk.Neles Tunya",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "1",
+        "PEREMPUAN": "1",
+        "RT": "03",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Semi Permanen",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "Rehab",
+        "RM_Bantuan": "Bantuan PEMDA PROVINSI PAPUA Tahun 2001"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.48",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454067.00000000314,
+          9703912.000042731
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "50",
+        "NAMA_KK": "Kel.Bpk.Agustinus Okoka",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "4",
+        "PEREMPUAN": "3",
+        "RT": "03",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Semi Permanen",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "Rehab",
+        "RM_Bantuan": "Bantuan PEMDA PROVINSI PAPUA Tahun 2001"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.49",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454052.7557340571,
+          9703909.56684327
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "51",
+        "NAMA_KK": "Kel.Bpk.Yohanis Kabey",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "2",
+        "PEREMPUAN": "5",
+        "RT": "03",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Semi Permanen",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Pemerintah Kampu",
+        "TINDAK_LAN": "",
+        "RM_Bantuan": "Bantuan PEMDA PROVINSI PAPUA Tahun 2001"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "perumahan_puay.50",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          454055.0000000072,
+          9703928.00004273
+        ]
+      },
+      "geometry_name": "the_geom",
+      "properties": {
+        "NOMOR": "52",
+        "NAMA_KK": "Kel.Bpk.Paulus Kabey",
+        "JUMLAH_KK": "1",
+        "LAKI_LAK": "7",
+        "PEREMPUAN": "2",
+        "RT": "03",
+        "RW": "II",
+        "Etnis": "Jayapura",
+        "JENIS_USAH": "Semi Permanen",
+        "JENIS_BANG": "Rusak Ringan",
+        "KONDISI_BA": "Layak Huni",
+        "KRITERIA_R": "Tani",
+        "TINDAK_LAN": "",
+        "RM_Bantuan": "Bantuan PEMDA PROVINSI PAPUA Tahun 2001"
+      }
+    }
+  ],
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::32754"
+    }
+  }
+}

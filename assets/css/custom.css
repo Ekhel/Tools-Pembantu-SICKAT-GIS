@@ -1,0 +1,253 @@
+@media (min-width: 768px) and (max-width: 979px) {
+
+    /*-----*/
+    .custom-bar-chart {
+        margin-bottom: 40px;
+    }
+
+    /*chat room*/
+
+
+}
+@media (min-width: 980px) {
+    /*-----*/
+    .custom-bar-chart {
+        margin-bottom: 40px;
+    }
+
+}
+.custom-bar-chart {
+        margin-bottom: 40px;
+    }
+
+.progress {
+border-radius: 0; }
+
+.project_progress .progress {
+  margin-bottom: 3px !important;
+  margin-top: 5px; }
+
+.progress-bar-info {
+  background-color: #3498DB; }
+
+.progress-bar-success {
+  background-color: #26B99A; }
+
+.progress_summary .progress {
+  margin: 5px 0 12px !important; }
+
+.progress_summary .row {
+  margin-bottom: 5px; }
+
+.progress_summary .row .col-xs-2 {
+  padding: 0; }
+
+.progress_summary .more_info span {
+  text-align: right;
+  float: right; }
+
+.progress_summary .data span {
+  text-align: right;
+  float: right; }
+
+.progress_summary p {
+  margin-bottom: 3px;
+  width: 100%; }
+
+.progress_title .left {
+  float: left;
+  text-align: left; }
+
+.progress_title .right {
+  float: right;
+  text-align: right;
+  font-weight: 300; }
+
+.progress.progress_sm {
+  border-radius: 0;
+  margin-bottom: 18px;
+  height: 10px !important; }
+
+.progress.progress_sm .progress-bar {
+  height: 10px !important; }
+
+  .progress.progress_sm {
+  border-radius: 0;
+  margin-bottom: 18px;
+  height: 10px !important; }
+
+.progress.progress_sm .progress-bar {
+  height: 10px !important; }
+
+  .bg-green {
+  background: #1ABB9C !important;
+  border: 1px solid #1ABB9C !important;
+  color: #fff; }
+
+  .bg-red {
+  background: #E74C3C !important;
+  border: 1px solid #E74C3C !important;
+  color: #fff; }
+
+.bg-blue {
+  background: #3498DB !important;
+  border: 1px solid #3498DB !important;
+  color: #fff; }
+
+.bg-orange {
+  background: #F39C12 !important;
+  border: 1px solid #F39C12 !important;
+  color: #fff; }
+
+.bg-purple {
+  background: #9B59B6 !important;
+  border: 1px solid #9B59B6 !important;
+  color: #fff; }
+
+.bg-blue-sky {
+  background: #50C1CF !important;
+  border: 1px solid #50C1CF !important;
+  color: #fff; }
+
+
+  .main-chart {
+	padding-top: 20px;
+}
+
+.mleft {
+}
+
+.border-head h3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+	margin-left: 15px;
+    padding-bottom: 5px;
+    font-weight: normal;
+    font-size: 18px;
+    display: inline-block;
+    width: 100%;
+    font-weight: 700;
+    color: #989898;
+}
+
+.custom-bar-chart {
+    height: 290px;
+    margin-top: 20px;
+    margin-left: 20px;
+    position: relative;
+    border-bottom: 1px solid #c9cdd7;
+}
+
+.custom-bar-chart .bar {
+    height: 100%;
+    position: relative;
+    width: 6%;
+    margin: 0px 4%;
+    float: left;
+    text-align: center;
+    z-index: 10;
+}
+
+.custom-bar-chart .bar .title {
+    position: absolute;
+    bottom: -30px;
+    width: 100%;
+    text-align: center;
+    font-size: 11px;
+}
+
+.custom-bar-chart .bar .value {
+    position: absolute;
+    bottom: 0;
+    background: #ff865c;
+    color: #68dff0;
+    width: 100%;
+    -webkit-border-radius: 5px 5px 0 0;
+    -moz-border-radius: 5px 5px 0 0;
+    border-radius: 5px 5px 0 0;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -ms-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease;
+}
+
+
+
+.custom-bar-chart .bar .value:hover {
+    background: #2f2f2f;
+    color: #fff;
+}
+
+.y-axis {
+    color: #555555;
+    position: absolute;
+    text-align: left;
+    width: 100%;
+    font-size: 11px;
+}
+
+.y-axis li {
+    border-top: 1px dashed #dbdce0;
+    display: block;
+    height: 58px;
+    width: 100%;
+}
+
+.y-axis li:last-child {
+    border-top: none;
+}
+
+.y-axis li span {
+    display: block;
+    margin: -10px 0 0 -60px;
+    padding: 0 10px;
+    width: 40px;
+}
+
+/*STOCK CARD Panel*/
+.card {
+  background: white;
+  box-shadow: 0 2px 1px rgba(0, 0, 0, 0.2);
+  margin-bottom: 1em;
+  height: 250px;
+}
+.stock .stock-chart {
+  background: #00c5de;
+}
+.stock .stock-chart #chart {
+    height: 10.7em;
+    background: url(http://i.imgbox.com/abmuNQx2) center bottom no-repeat;
+}
+.stock .current-price {
+  background: #1d2122;
+  padding: 10px;
+}
+.stock .current-price .info abbr {
+    display: block;
+    color: #f8f8f8;
+    font-size: 1.5em;
+    font-weight: 600;
+    margin-top: 0.18em;
+}
+.stock .current-price .changes {
+    text-align: right;
+}
+.stock .changes .up {
+	color: #4fd98b
+}
+.stock .current-price .changes .value {
+      font-size: 1.8em;
+      font-weight: 700;
+}
+.stock .summary {
+    color: #2f2f2f;
+    display: block;
+    background: #f2f2f2;
+    padding: 10px;
+	text-align: center;
+}
+.stock .summary strong {
+	font-weight: 900;
+	font-size: 14px;
+}
